@@ -70,12 +70,6 @@ public class Car {
     }
 
 
-
-
-
-
-
-
     public double driveCar(float distanceToTravel) throws Exception {
 
         setDistanceToEmpty(availableFuel*average);
